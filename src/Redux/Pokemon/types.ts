@@ -1,0 +1,4 @@
+export default {
+  FETCH_POKEMONS: 'FETCH_POKEMONS',
+  FETCH_POKEMON: 'FETCH_POKEMON',
+};
